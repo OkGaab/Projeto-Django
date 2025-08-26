@@ -1,0 +1,70 @@
+# ==================
+# Arquivos Python
+# ==================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+*.log
+*.pot
+*.pyc
+
+# ==================
+# Django
+# ==================
+db.sqlite3
+media/
+staticfiles/
+*.mo
+*.pot
+
+# ==================
+# Virtual Env
+# ==================
+venv/
+ENV/
+env/
+.venv/
+env.bak/
+
+# ==================
+# Configurações / Segredos
+# ==================
+*.env
+.env.*
+
+# ==================
+# Arquivos de IDEs
+# ==================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ==================
+# Arquivos do Sistema (Windows / MacOS / Linux)
+# ==================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ==================
+# Cache / Temp
+# ==================
+*.bak
+*.tmp
+*.swp
+*.swo
+*.orig
+*.old
+
+# ==================
+# Navegadores / Outros
+# ==================
+AppData/
+Local Settings/
+History/
